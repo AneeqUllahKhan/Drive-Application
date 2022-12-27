@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "490070835959",
+    "firebase_url": "https://drive-c4460-default-rtdb.firebaseio.com",
+    "project_id": "drive-c4460",
+    "storage_bucket": "drive-c4460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490070835959:android:0525f36e6d648ced4949f2",
+        "android_client_info": {
+          "package_name": "com.drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490070835959-4nb2i4p9t1fbpej23oknc8o9kfmrjl9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJkLxgW2xgIm_0RKxAr1B3WAsWIMHguWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490070835959-4nb2i4p9t1fbpej23oknc8o9kfmrjl9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
